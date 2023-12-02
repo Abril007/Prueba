@@ -6,6 +6,7 @@ public class Principal {
         System.out.println("Hello world2");
         System.out.println("El area bajo la curva: 18");
         System.out.println("El area debajo la curva: -18");
+        Secundario.print();
     }
     
 }
